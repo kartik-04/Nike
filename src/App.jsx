@@ -7,7 +7,7 @@ import {
   SpecialOffer,
   Subscribe,
   SuperQuality,
-} from "./sections/index.js";
+} from "./sections";
 
 import Nav from "./components/Nav";
 
