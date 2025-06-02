@@ -1,7 +1,6 @@
 import { arrowRight } from "../assets/icons";
 import { offer } from "../assets/images";
 import Button from "../components/button";
-import reviewCard from "../components/ReviewCard";
 
 const SpecialOffer = () => {
   return (
